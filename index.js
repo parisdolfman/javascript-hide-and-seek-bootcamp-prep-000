@@ -18,3 +18,10 @@ function deepestChild() {
   }
   return node
 }
+
+
+function increaseRankBy(n) {
+ var lists = document.querySelectorAll('.ranked-list');
+
+
+}
